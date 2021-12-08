@@ -11,4 +11,4 @@ This project uses the following technologies:
 - EZ-Gmail python module
 
 ### Example of Price Chart
-![price chart](./mouse_price_plot 2020-07-12.png)
+![price chart](https://github.com/SpencePro/AmazonPriceTracker/blob/master/mouse_price_plot%202020-07-12.png)
